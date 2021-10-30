@@ -1,4 +1,5 @@
 # Ignore this files
 
-# Jupyter Notebook
+# Jupyter Notebook ignorefiles
+
 .ipynb_checkpoints
